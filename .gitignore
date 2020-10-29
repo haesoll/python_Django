@@ -7,6 +7,7 @@
 *.pot
 *.pyc
 __pycache__/
+manage.py
 my_setting.py
 secrets.json
 db.sqlite3
